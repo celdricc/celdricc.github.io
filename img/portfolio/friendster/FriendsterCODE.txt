@@ -1,0 +1,198 @@
+<html>
+    <head>
+        <title> Friendster  </title>
+    </head>
+    <body bgcolor="#F2A2E8" background="340434.png">
+        <center>
+            <a href="pngegg.png"><img src="pngegg.png" width="180" height="70"></a>
+            <br><br>
+                <table width="1200" cellspacing="10" cellpadding="5" bgcolor="#C3B1E1">
+                    <tr>
+                        <td><font color="#673147">Home</font></td>
+                        <td><font color="#673147">Profile</font></td>
+                        <td><font color="#673147">Apps</font></td>
+                        <td><font color="#673147">Connections</font></td>
+                        <td><font color="#673147">Explore</font></td>
+                        <td width="550px"><font color="#673147">Search</font></td>
+                        <td><font color="#673147">Classifieds</font></td>
+                        <td><font color="#673147">Find Friends</font></td>
+                    </tr>
+                </table>
+            <br><br>
+    </body>
+    <body>
+        <table width="1200" cellpadding="5" bgcolor="#C3B1E1">
+            <tr>
+                <td colspan="4" style="font-size:20" bgcolor="#F8C8DC">
+                  <b>Andielyn Tan</b>
+                </td>
+            </tr>
+            <tr>
+                <th rowspan="3" colspan="2" bgcolor="#C3B1E1">
+                    <a href="profile.jpg">
+                        <img src="profile.jpg">
+                        <br><br> Profile Pic
+                    </a>
+                </th>
+                <td rowspan="3"</td>
+                <td style="height: 60;" bgcolor="#D3D3D3">
+                    <font color="blue">Post a shortcut to your Profile</font>
+                    <br>
+                    <Font color="red"> (Create) </Font>
+                </td>
+                <td rowspan="11"></td>
+                <td rowspan="10" width="300">
+                    <table width="450" cellpadding="5" align="center" bgcolor="#C3B1E1">
+                        <tr>
+                            <td colspan="3" style="font-size: 20;" bgcolor="#F8C8DC">
+                                <b>Andielyn's Friends</b>
+                            </td>
+                        </tr>
+                        <tr>
+                            <th>
+                                <a href="lisamanoban.jpg">
+                                    <img src="lisamanoban.jpg" height="150" width="125">
+                                    <br><br>Lisa Manoban
+                                </a>
+                            </th>
+                            <th>
+                                <a href="Jennie-Kim.jpg">
+                                    <img src="Jennie-Kim.jpg" height="150" width="125">
+                                    <br><br>Jennie Kim
+                                </a>
+                            </th>
+                            <th>
+                                <a href="badalee.jpg">
+                                    <img src="badalee.jpg" height="150" width="125">
+                                    <br><br>Bada Lee
+                                </a>
+                            </th>
+                        </tr>
+                        <tr>
+                            <th>
+                                <a href="roe-blackpink.webp">
+                                    <img src="roe-blackpink.webp" height="150" width="125">
+                                    <br><br>Rose
+                                </a>
+                            </th>
+                            <th>
+                                <a href="jisoo.webp">
+                                    <img src="jisoo.webp" height="150" width="125">
+                                    <br><br>Jisoo
+                                </a>
+                            </th>
+                            <th>
+                                <a href="twicemomo.jpg">
+                                    <img src="twicemomo.jpg" height="150" width="125">
+                                    <br><br>Momo
+                                </a>
+                            </th>
+                            <tr>
+                                <th colspan="3"></th>
+                            </tr>
+                            <tr>
+                                <td colspan="2" bgcolor="#C3B1E1"><b>View All (100)</b></td>
+                                <th width="133" bgcolor="#C3B1E1">Edit Featured Fans</th>
+                            </tr>
+                            <tr>
+                                <th colspan="3" height="200" bgcolor="ffffff"><u>Ads by Google</u></th>
+                            </tr>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td bgcolor="#C3B1E1">
+                    Interested in: <font color="#BF40BF">Dating Men</font><br>
+                    Member Since: <font color="#BF40BF">Nov 2010</font><br>
+                    Profile Viewed: <font color="#BF40BF">(0)Times</font><br>
+                    Your Location: <font color="#BF40BF">Quezon City, Philippines</font><br>
+                    College: <font color="#BF40BF">Informatics</font><br>
+                    Your URL: <font color="#BF40BF">friendster.com/andiexxi</font>
+                </td>
+            </tr>
+            <tr>
+                <td style="text-align: right" height="125" bgcolor="#C3B1E1"> 
+                    <b>More about Andielyn>></b>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3" bgcolor="#C3B1E1"></td>
+                <td style="font-size: 15;" bgcolor="white">
+                    <b>Recent Updates:</b>
+                    <font size="1" color="#BF40BF">[Visible to all]</font>
+                    <br>
+                    <font size="1" color="#BF40BF">
+                    <i>No Recent Updates</i></font>
+                </td>
+            </tr>
+            <tr>
+                <th width="150" bgcolor="#F8C8DC"><font color="#F33A6A">View Message</font></th>
+                <th width="150" bgcolor="#F8C8DC"><font color="#F33A6A">Create Blog</font></th>
+            </tr>
+            <tr>
+                <th bgcolor="#F8C8DC"><font color="#F33A6A">Edit Friends</font></th>
+                <th bgcolor="#F8C8DC"><font color="#F33A6A">Edit Comments</font></th>
+            </tr>
+            <tr>
+                <th bgcolor="#F8C8DC"><font color="#F33A6A">Customize Page</font></th>
+                <th bgcolor="#F8C8DC"><font color="#F33A6A">Edit Profile</font></th>
+            </tr>
+            <tr>
+                <th bgcolor="#F8C8DC"><font color="#F33A6A">Edit Photos</font></th>
+            </tr>
+            <tr>
+                <td height="20" colspan="4"></td>
+            </tr>
+            <tr>
+                <td colspan="4" height="10" width="100" style="font-size: 20;" bgcolor="pink"><b>Andielyn's Images</b>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="4">
+                    <table cellspacing="15" cellpadding="1" align="center">
+                        <tr>
+                            <th>
+                                <a href="kitten.webp">
+                                    <img src="kitten.webp" height="100" width="100">
+                                    <br>Kitten
+                                </a>
+                            </th>
+                            <th>
+                                <a href="hamster.webp">
+                                    <img src="hamster.webp" height="100" width="100">
+                                    <br>Hamster
+                                </a>
+                            </th>
+                            <th>
+                                <a href="piglet.webp">
+                                    <img src="piglet.webp" height="100" width="100">
+                                    <br>Piglet
+                                </a>
+                            </th>
+                            <th>
+                                <a href="bunny.jpg">
+                                    <img src="bunny.jpg" height="100" width="100">
+                                    <br>Bunny
+                                </a>
+                            </th>
+                            <th>
+                                <a href="unicorn.jpg">
+                                    <img src="unicorn.jpg" height="100" width="100">
+                                    <br>Unicorn
+                                </a>
+                            </th>
+                            <th>
+                                <a href="puppy.jpg">
+                                    <img src="puppy.jpg" height="100" width="100">
+                                    <br>Puppy
+                                </a>
+                            </th>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </body>
+    </center>              
+    </body>
+</html>
